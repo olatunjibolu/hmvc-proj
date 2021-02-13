@@ -1,4 +1,9 @@
 ###################
+Hmvc Proj
+###################
+A simple blog project built upon HMVC (heirarchical model-view-controller) structure using CodeIgniter. Allows users to register, login, make posts, comments, view blog posts and comments thread. 
+
+###################
 What is CodeIgniter
 ###################
 
